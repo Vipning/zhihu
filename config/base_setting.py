@@ -1,0 +1,16 @@
+
+SQLALCHEMY_DATABASE_URI ='mysql://root:ltn5090791@127.0.0.1/zhihu'
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+SERVER_PORT =8999
+
+SQLALCHEMY_ECHO =False
+SQLALCHEMY_ENCODING ='utf-8'
+DEBUG=False
+JSON_AS_ASCII=False
+
+
+ZHIHU_APP={
+    'appid':'wx674c688cf3f7bdb0',
+    'appkey':'91eedc4b110121b5bfca239010f2797f'
+}
+
